@@ -49,14 +49,14 @@ The Power BI dashboard consists of two main pages:
 - **Revenue by Specialty**: Identifies high-revenue medical fields.
 - **Revenue by Category**: Highlights income sources.
 - **Procedure Analysis**: Displays revenue, expenses, and profit per procedure.
-- **Screenshot:** ![Revenue Dashboard](Images/revenuedashboard.png)
+- **Screenshot:** ![Revenue Dashboard](images/revenuedashboard.png)
 
 ### **Performance Dashboard (Page 2)**
 - **Top 5 Doctors by Revenue**: Identifies high-earning doctors.
 - **Top 5 Patients by Revenue**: Highlights key hospital contributors.
 - **Patient Visits Trend**: Tracks fluctuations in patient footfall.
 - **Doctors and Patients by Specialty**: Analyses the balance between availability and demand.
-- **Screenshot:** ![Performance Dashboard](Images/performancedashboard.png)
+- **Screenshot:** ![Performance Dashboard](images/performancedashboard.png)
 
 ## Analysis and Insights
 ### **Revenue and Profitability Trends**
