@@ -14,7 +14,7 @@
 Hospitals generate vast amounts of transactional data that can be leveraged for financial and operational analysis. This report presents a Power BI dashboard designed to provide actionable insights into revenue streams, doctor performance, and patient distribution.
 
 ## Business Problem
-The hospital administration needs better financial oversight and performance tracking. This study aims to:
+The hospital administration needs better financial oversight and performance tracking. This study addresses the following objectives:
 - Analyse revenue trends across different medical specialties.
 - Identify the most profitable procedures and specialties.
 - Assess doctor and patient distribution.
@@ -80,3 +80,5 @@ The Power BI dashboard provides comprehensive insights into financial performanc
 - Expand high-revenue specialties such as Dermatology and Cardiology.
 - Optimize scheduling to balance patient visits across departments.
 - Monitor expense patterns to increase overall profitability.
+
+By continuously monitoring key metrics, hospitals can enhance financial sustainability and operational efficiency, leading to improved patient care and revenue growth.
